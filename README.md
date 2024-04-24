@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @JCervantesB
-- 👀 I'm interested in the development of web and mobile applications...
-- 🌱 I’m currently learning JS, NodeJS, Python, Django, Flask and Flutter...
-- 💞️ I'm interested in collaborating with the Odoo Community...
-- ✨ I've been developing basic modules for Odoo for about 2 year 
-
 <!---
 JCervantesB/JCervantesB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -11,7 +5,11 @@ You can click the Preview link to take a look at your changes.
 
 ---
 ### :man_technologist: About Me :
-I am a FullStack Jr Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from México.
+- 👋 Hi, I’m @JCervantesB a FullStack Jr Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from México.
+- 👀 I'm interested in the development of web and mobile applications...
+- 🌱 I’m currently learning PHP, Laravel, JS, NextJS, NodeJS, Python, Django, Flask and Flutter...
+- 💞️ I'm interested in collaborating with the Odoo Community...
+- ✨ I've been developing basic modules for Odoo for about 2 year 
 - :telescope: I’m working as an assistant professor for CodigoConJuan on the Udemy platform.
 
 ---
@@ -21,6 +19,7 @@ I am a FullStack Jr Web Developer <img src="https://media.giphy.com/media/WUlplc
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" **alt="PHP" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-line-wordmark.svg" title="Laravel" **alt="Laravel" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS" **alt="NextJS" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="VueJS" **alt="VueJS" width="40" height="40"/>
